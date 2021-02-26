@@ -1,2 +1,2 @@
 # react-chess
-Chess game made using reactjs.
+Chess game made using reactjs
