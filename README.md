@@ -1,4 +1,4 @@
-# REACT CHESS
+# REACT-CHESS
 Chess board game made using react and javascript. \
 Code will be updated soon :) 
 
