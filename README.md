@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# REACT CHESS
+Chess board game made using react and javascript. \
+Code will be updated soon :) \
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
