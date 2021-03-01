@@ -1,6 +1,6 @@
 # REACT CHESS
 Chess board game made using react and javascript. \
-Code will be updated soon :) \
+Code will be updated soon :) 
 
 ## Getting Started with Create React App
 
